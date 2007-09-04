@@ -16,4 +16,4 @@ requires:
   DBIx::Class: 0
   Data::Pageset: 0
   Test::More: 0
-version: 0.01
+version: 0.02
