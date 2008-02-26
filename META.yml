@@ -20,4 +20,4 @@ requires:
   DBIx::Class: 0
   Data::Pageset: 1.02
   perl: 5.6.1
-version: 0.04
+version: 0.05
